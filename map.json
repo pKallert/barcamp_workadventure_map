@@ -176,7 +176,7 @@
          "height":120,
          "id":24,
          "name":"barcamp_stage",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -199,7 +199,7 @@
          "height":120,
          "id":26,
          "name":"auditorium",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -260,7 +260,7 @@
          "height":120,
          "id":45,
          "name":"time schedule",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -278,7 +278,7 @@
          "height":120,
          "id":44,
          "name":"helper desk",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -367,7 +367,7 @@
                  "y":0
                 }],
          "name":"lounges",
-         "opacity":1,
+         "opacity":0,
          "type":"group",
          "visible":false,
          "x":0,
@@ -593,7 +593,7 @@
                  "y":0
                 }],
          "name":"session rooms",
-         "opacity":1,
+         "opacity":0,
          "type":"group",
          "visible":false,
          "x":0,
@@ -759,7 +759,7 @@
          "height":120,
          "id":27,
          "name":"collisions",
-         "opacity":0.66,
+         "opacity":0,
          "type":"tilelayer",
          "visible":false,
          "width":160,
