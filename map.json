@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/"
+                 "value":"https:\/\/kallertpa.github.io\/barcamp_workadventure_map\/map.png"
                 }],
          "type":"tilelayer",
          "visible":true,
