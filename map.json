@@ -939,7 +939,7 @@
          "height":120,
          "id":27,
          "name":"collisions",
-         "opacity":0.85,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":160,
