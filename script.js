@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://app.mural.co/embed/54592076-0a47-46d7-b05c-35a87b1748f2")})();
+(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://app.mural.co/embed/7c6eac1b-d41d-4fa1-aa34-01028f25a4ed")})();
 //# sourceMappingURL=script.js.map
