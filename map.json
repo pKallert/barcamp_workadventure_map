@@ -368,7 +368,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kallertpa.github.io\/barcamp_workadventure_map\/map.png"
+                 "value":"https:\/\/app.mural.co\/embed\/7c6eac1b-d41d-4fa1-aa34-01028f25a4ed"
                 }],
          "type":"tilelayer",
          "visible":true,
