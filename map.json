@@ -718,14 +718,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"{\"startWithAudioMuted\":false,\"startAudioMuted\":6,\"disableJoinLeaveSounds\":true,\"startVideoMuted\":26,\"startWithVideoMuted\":false}"
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"sessionRoom1"
+                         "value":"https:\/\/us06web.zoom.us\/j\/87582308968?pwd=WEtBU1g1N3BGeW9aVnU0Z0tXRGU2dz09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
