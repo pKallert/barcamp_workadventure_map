@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://app.mural.co/t/diedigitalwerkstatt7758/m/diedigitalwerkstatt7758/1604866566045/3fefe79de5ae50fc636787405c52ea5261b72b0f?sender=db9979 ")})();
+(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://app.mural.co/embed/54592076-0a47-46d7-b05c-35a87b1748f2")})();
 //# sourceMappingURL=script.js.map
