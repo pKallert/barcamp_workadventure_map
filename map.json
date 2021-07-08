@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/e2xia7Bb1N8"
+                 "value":"https:\/\/stream.nuernberg.digital\/barcamp"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
