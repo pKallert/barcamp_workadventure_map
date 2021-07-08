@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://app.mural.co/embed/7c6eac1b-d41d-4fa1-aa34-01028f25a4ed")})();
+(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://kallertpa.github.io/barcamp_workadventure_map/map_7.html")})();
 //# sourceMappingURL=script.js.map
