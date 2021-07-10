@@ -589,7 +589,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/83753394211?pwd=MjY3YW1NOGQ1UCs2bGdxN29UUzNKQT09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -607,7 +607,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/81628185464?pwd=aUgrTlA1NkZRZ0dYdHJzZTJjSU9ZUT09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -625,7 +625,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/81439401896?pwd=bk82d1h4TWFjY0NBdEROb0Rmb1FWZz09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -643,7 +643,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/88387508441?pwd=THIwRDRaVytCK2JDTHdnUFNPYUE1dz09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -684,7 +684,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/82093342928?pwd=ajMvMmxtdlg4aXl2WWhMRUcwVUhIUT09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -702,7 +702,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us06web.zoom.us\/j\/87582308968?pwd=WEtBU1g1N3BGeW9aVnU0Z0tXRGU2dz09"
+                         "value":"https:\/\/us06web.zoom.us\/j\/88065449093?pwd=QWJMUUkvZnkrR2U2bHlsb2JYMzc3UT09"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -900,7 +900,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -2133,6 +2133,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":160
 }
